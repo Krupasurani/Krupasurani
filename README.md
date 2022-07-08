@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krupasurani
+- 👋 Hi, I’m @Krupalisurani
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning React js. 
 - 💞️ I’m looking to collaborate on projects.
