@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krupalisurani
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning React js. 
+- 👀 I’m good in web development. 
+- 🌱 I’m currently working in React js. 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me krupalisurani11@gmail.com
 
