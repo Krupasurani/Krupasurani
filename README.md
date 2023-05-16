@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krupalisurani
 - 👀 I’m good in web development.,machine learning, Embedded, Iot, c++,python 
 - 🌱 I’m currently working in machine learning. 
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m looking to collaborate in projects.
 - 📫 How to reach me krupalisurani11@gmail.com
 
 <!---
