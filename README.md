@@ -1,18 +1,46 @@
+<img align="center" alt="Glow Banner" width="100%" src="https://i.ibb.co/zf8S4Wq/glow.gif">
 <h1 align="center">👋 Welcome to My AI Lab! 👩‍💻 I’m Krupali Surani 🌌</h1>
 <h3 align="center">Python Prodigy | AI Engineer | Generative AI | Machine Learning Maestro | Visionary in Computer Vision from India</h3>
-<img align="right" alt="Coding" width="400" src="https://ibb.co/fXcRMv6">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krupasurani&label=Profile%20views&color=0e75b6&style=flat" alt="krupasurani" /> </p>
 
-- 🔭 I’m currently working on **LLM-based OCR Extractor Chatbot– teaching AI to read, extract, and be your personal assistant in data scraping with a touch of AI magic.**
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/cF0QFdd/B3-O0i91-M-C-w-Y-1024.webp">
 
-- 🌱 I’m currently learning **GPT-4, because teaching AI to write code, essays, and occasionally its own existential crises is a full-time job. BERT (Bidirectional Encoder Representations from Transformers) – Reading between the lines... literally. I’m making AI understand every word and the entire sentence in both directions. T5 (Text-To-Text Transfer Transformer) – Converting everything into text tasks, from translation to summarization, all while keeping it cool and casual. PaLM (Pathways Language Model) – Making AI understand context better than that one friend who never gets your jokes. Claude – OpenAI’s (possibly) gentler rival, with a personality that balances creativity and factual accuracy. LLaMA (Large Language Model Meta AI) – Wrangling this beast of a model to make sure AI stays informative without going rogue. RAG (Retrieval-Augmented Generation) – Because if AI doesn’t know the answer, it’ll Google it for you and then sound smart. GAG (Generative Adversarial Genius) – Creating a “sparring partner” for AI that helps it generate, refine, and optimize creative outputs (without starting a fight). Jurassic-2, Cohere, and OPT – Training AI to not just write your essays, but also narrate the history of dinosaurs or optimize complex problems (preferably not simultaneously). DeepSpeed & Megatron-LM – Because sometimes, you need to speed up and scale things to mega levels of language model power. FLAN-T5 – Not just serving up AI-generated text, but fine-tuning it for all sorts of natural language tasks, with a flair for flexible and fluent answers. Anthropic's Claude – Learning to strike the perfect balance between creativity and safety, so my AI doesn’t run wild (unless I let it).**
 
-- 👯 I’m looking to collaborate on **Generative AI projects that redefine creativity and productivity**
 
-- 💬 Ask me about **Generative AI: from creating stunning visuals to AI-generated memes that will out-funny the internet itself. Machine Learning algorithms that can predict everything – from stock prices to your next favorite pizza topping. Computer Vision: I can teach machines to see better than your 20/20 vision, recognizing objects, faces, and even sarcasm (work in progress). Python: Need a code that writes more code for you? Python’s my jam. Training a neural network to explain jokes to itself... (warning: it's still working on the punchlines). How I once trained a GAN to generate new breakfast recipes. Spoiler: AI loves avocado toast.**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=krupasurani&label=Profile%20views&color=0e75b6&style=flat" alt="krupasurani" />
+</p>
 
-- ⚡ Fun fact **I once trained an AI to generate memes… it’s now convinced it’s a stand-up comedian. Its favorite joke? “Why did the neural network break up with the decision tree? Too many branches, not enough depth.”**
+<p>- 🔭 I’m currently working on <strong>LLM-based OCR Extractor Chatbot– teaching AI to read, extract, and be your personal assistant in data scraping with a touch of AI magic.</strong></p>
+
+<p>- 🌱 I’m currently learning <strong>GPT-4, because teaching AI to write code, essays, and occasionally its own existential crises is a full-time job.</strong><br>
+- <strong>BERT (Bidirectional Encoder Representations from Transformers) – Reading between the lines... literally. I’m making AI understand every word and the entire sentence in both directions.</strong><br>
+- <strong>T5 (Text-To-Text Transfer Transformer) – Converting everything into text tasks, from translation to summarization, all while keeping it cool and casual.</strong><br>
+- <strong>PaLM (Pathways Language Model) – Making AI understand context better than that one friend who never gets your jokes.</strong><br>
+- <strong>Claude – OpenAI’s (possibly) gentler rival, with a personality that balances creativity and factual accuracy.</strong><br>
+- <strong>LLaMA (Large Language Model Meta AI) – Wrangling this beast of a model to make sure AI stays informative without going rogue.</strong><br>
+- <strong>RAG (Retrieval-Augmented Generation) – Because if AI doesn’t know the answer, it’ll Google it for you and then sound smart.</strong><br>
+- <strong>GAG (Generative Adversarial Genius) – Creating a “sparring partner” for AI that helps it generate, refine, and optimize creative outputs (without starting a fight).</strong><br>
+- <strong>Jurassic-2, Cohere, and OPT – Training AI to not just write your essays, but also narrate the history of dinosaurs or optimize complex problems (preferably not simultaneously).</strong><br>
+- <strong>DeepSpeed & Megatron-LM – Because sometimes, you need to speed up and scale things to mega levels of language model power.</strong><br>
+- <strong>FLAN-T5 – Not just serving up AI-generated text, but fine-tuning it for all sorts of natural language tasks, with a flair for flexible and fluent answers.</strong><br>
+- <strong>Anthropic's Claude – Learning to strike the perfect balance between creativity and safety, so my AI doesn’t run wild (unless I let it).</strong></p>
+
+
+
+<p>- 👯 I’m looking to collaborate on <strong>Generative AI projects that redefine creativity and productivity</strong></p>
+
+
+
+
+<p>- 💬 Ask me about <strong>Generative AI: from creating stunning visuals to AI-generated memes that will out-funny the internet itself.<br>
+- Machine Learning algorithms that can predict everything – from stock prices to your next favorite pizza topping.</strong><br>
+- <strong>Computer Vision: I can teach machines to see better than your 20/20 vision, recognizing objects, faces, and even sarcasm (work in progress).</strong><br>
+- <strong>Python: Need a code that writes more code for you? Python’s my jam. Training a neural network to explain jokes to itself... (warning: it's still working on the punchlines).</strong><br>
+- <strong>How I once trained a GAN to generate new breakfast recipes. Spoiler: AI loves avocado toast.</strong></p>
+
+<p>- ⚡ Fun fact <strong>I once trained an AI to generate memes… it’s now convinced it’s a stand-up comedian. Its favorite joke? “Why did the neural network break up with the decision tree? Too many branches, not enough depth.”</strong></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
